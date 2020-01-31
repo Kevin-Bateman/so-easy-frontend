@@ -1,0 +1,10 @@
+.nav-bar {
+    border: 1px solid gray;
+    padding: 20px;
+}
+button {
+    float: right;
+}
+img {
+    margin: 25px;
+}
